@@ -1,1 +1,0 @@
-Jarvis is a voice-controlled virtual assistant built with HTML, CSS, and JavaScript, featuring a sleek design and dynamic interactions. It uses SpeechSynthesis for text-to-speech and SpeechRecognition to process commands like opening websites or answering queries .
